@@ -10,6 +10,7 @@ Based in Vienna
 - Java
 #### Developers / Designers
 - Leander Lombardi (Head developer)
+- Julian Eckert (Senior developer)
 - Clemens Achs (Developing student)
 - Michael Streicher (Head designer)
 ## Current Projects
