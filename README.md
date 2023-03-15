@@ -1,6 +1,8 @@
 # Leander Lombardi
 ### About me
-* Company: Alice Development
+* Company: Elith Development
+> Head developer (HdD)
+> Working with [Julian Eckert](https://github.com/hypejulian)
 ### Languages
 * C#
 * Java
