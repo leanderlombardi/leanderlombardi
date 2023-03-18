@@ -1,6 +1,6 @@
 # Leander Lombardi
 ### About me
-* Company: Elith Development
+* Company: [Elith Development](https://github.com/ElithDevelopment)
 > Head developer (HdD)\
 > Working with [Julian Eckert](https://github.com/hypejulian)
 ### Languages
